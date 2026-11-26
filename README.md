@@ -1,15 +1,27 @@
-# audiospark-website
+![AudioSpark — illustrated vinyl record and stereo waveform](docs/audiospark-sleeve.svg)
 
-![GitHub Repo Size](https://img.shields.io/github/repo-size/Mhadi-1382/audiospark-website)
-![GitHub Stars](https://img.shields.io/github/stars/Mhadi-1382/audiospark-website)
-![GitHub Forks](https://img.shields.io/github/forks/Mhadi-1382/audiospark-website)
+# AudioSpark
 
-<br>
+A music discovery interface built with HTML, CSS and JavaScript. Browse cover art in **Explore**, discover featured creators, or jump from trending tracks to popular artists.
 
-<img src="https://github.com/Mhadi-1382/audiospark-website/blob/master/Audiospark_Website_Cover.png" alt="audiospark-website" description="An unparalleled experience of sound magic, Audiospark">
+![Repository size](https://img.shields.io/github/repo-size/asaleh007/audiospark-website?style=flat-square&color=5154ff) ![Stars](https://img.shields.io/github/stars/asaleh007/audiospark-website?style=flat-square&color=5154ff) ![Forks](https://img.shields.io/github/forks/asaleh007/audiospark-website?style=flat-square&color=5154ff)
 
-**An unparalleled experience of sound magic, Audiospark**
+## The interface
 
-**Audiospark Website Project UI:** <a href="https://dribbble.com/shots/22940279-Audiospark-Website-Project">https://dribbble.com/shots/22940279-Audiospark-Website-Project</a>
-<br>
-**Audiospark Logo Project:** <a href="https://dribbble.com/shots/22940194-Audiospark-Logo-Project">https://dribbble.com/shots/22940194-Audiospark-Logo-Project</a>
+[![AudioSpark website design preview](Audiospark_Website_Cover.png)](Audiospark_Website_Cover.png)
+
+## Inside the artwork
+
+A selection from the site's cover and artist collections. Open a thumbnail to see the full image.
+
+| Charged | Fight or Flight | Hans Zimmer |
+| :---: | :---: | :---: |
+| [![Charged cover](images/covers/Charged-400x400.jpg)](images/covers/Charged-400x400.jpg) | [![Fight or Flight cover](images/covers/Fight-Or-Flight-Tetra-400x400.jpg)](images/covers/Fight-Or-Flight-Tetra-400x400.jpg) | [![Hans Zimmer portrait](images/avatar-artists/Hans-Zimmer-400x400.jpg)](images/avatar-artists/Hans-Zimmer-400x400.jpg) |
+
+## Open locally
+
+Download the repository, extract it, and open `index.html` in your browser.
+
+## Design references
+
+[Website UI on Dribbble](https://dribbble.com/shots/22940279-Audiospark-Website-Project) · [Logo design on Dribbble](https://dribbble.com/shots/22940194-Audiospark-Logo-Project)
