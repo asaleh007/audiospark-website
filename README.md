@@ -6,7 +6,7 @@ A music discovery interface built with HTML, CSS and JavaScript. Browse cover ar
 
 ![Repository size](https://img.shields.io/github/repo-size/asaleh007/audiospark-website?style=flat-square&color=5154ff) ![Stars](https://img.shields.io/github/stars/asaleh007/audiospark-website?style=flat-square&color=5154ff) ![Forks](https://img.shields.io/github/forks/asaleh007/audiospark-website?style=flat-square&color=5154ff)
 
-## The interface
+## The interfaces
 
 [![AudioSpark website design preview](Audiospark_Website_Cover.png)](Audiospark_Website_Cover.png)
 
